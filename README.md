@@ -1,7 +1,5 @@
 <summary><h2>🛠️shtuff I used somewhere🛠️</h2></summary>
 
-  <h3>👨‍💻 Programming Languages👨‍💻</h3>
-
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
