@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdot-mal&label=Profile%20views&color=0e75b6&style=flat" alt="shalabhtayal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdot-mal&label=Profile%20views&color=0e75b6&style=flat" alt="0xdot-mal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xdot-mal" alt="0xdot-mal" /></a> </p>
 
