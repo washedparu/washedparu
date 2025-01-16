@@ -1,7 +1,7 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdot-mal&label=Profile%20views&color=0e75b6&style=flat" alt="0xdot-mal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=washedparu&label=Profile%20views&color=0e75b6&style=flat" alt="washedparu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xdot-mal" alt="0xdot-mal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=washedparu" alt="washedparu" /></a> </p>
 
 
 <summary><h2>🛠️shtuff I use🛠️</h2></summary>
@@ -33,9 +33,9 @@
 
 
 <summary><h2>📊My Stats📊</h2></summary>
-  <a href="https://github.com/0xdot-mal">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xdot-mal&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xdot-mal&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/washedparu">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=washedparu&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=washedparu&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
   </a>
 
 
