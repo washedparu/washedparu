@@ -1,8 +1,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=washedparu&label=Profile%20views&color=0e75b6&style=flat" alt="washedparu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=washedparu" alt="washedparu" /></a> </p>
-
 
 <summary><h2>🛠️shtuff I use🛠️</h2></summary>
 
