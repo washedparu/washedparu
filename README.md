@@ -7,23 +7,23 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=cpp,c,rust,html,css,arduino"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cpp,c,rust"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Scripting & Automation Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,powershell,lua,bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,lua,bash"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ide I use:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,neovim"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,neovim,vim"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=arch,windows"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
 </table>
 
